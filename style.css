@@ -66,6 +66,12 @@ li:hover{
    text-align: center;
    margin-top: -50px;
 }
+.session-title{
+    text-align: center;
+    margin: 40px 0px;
+    color: rgb(251, 91, 118);
+    font-weight: bolder;
+}
 
 .card-title{
     font-size: 18px;
