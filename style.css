@@ -46,3 +46,52 @@ li:hover{
     text-align: center;
     margin-top: 80px;
 }
+
+/* car-section */
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.card-content{
+   text-align: center;
+   margin-top: -50px;
+}
+
+.card-title{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(255, 131, 152);
+}
+
+.card-btn{
+    padding: 10px;
+    border-radius: 6px;
+    border: none;
+    font-weight: bolder;
+}
+.card-btn:hover{
+    color: rgb(255, 56, 89);
+}
+
+
+.selling-tile{
+    font-size: 40px;
+   margin-top:30px ;
+   font-weight: bolder;
+    text-align: center;
+}
+
+
+/* seller option */
+
+.seller-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-top: 80px;
+}
