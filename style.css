@@ -8,6 +8,7 @@
     align-items: center;
    width: 1480px;
    margin: 0px auto;
+   
     
 }
 
@@ -31,13 +32,18 @@ li:hover{
     font-size: 18px;
     color: rgb(255, 116, 139)
 }
+.banner-container{
+    background-image: url("./assets/Banner.png");
+    background-repeat: no-repeat;
+    margin-left: 240px;
+    margin-top: 25px;
+}
 
 .banner-img {
-    margin-top: 15px;
-    background-image: cover;
-    justify-content: center;
-    display: flex;
-    align-items: center;
+    margin-left: 860px;
+    width: 210px;
+    
+
 }
 
 /* card title */
@@ -81,7 +87,6 @@ li:hover{
 .selling-tile{
     font-size: 40px;
    margin-top:30px ;
-   font-weight: bolder;
     text-align: center;
 }
 
